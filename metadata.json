@@ -1,9 +1,0 @@
-{
-  "name": "Multiple Domain Single-Sign-On Sample",
-  "type": "sample",
-  "tags": [
-    "nodejs",
-    "web",
-    "single-sign-on"
-  ]
-}
